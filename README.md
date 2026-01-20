@@ -8,11 +8,10 @@ The system combines traditional Computer Vision techniques for efficient plate l
 **Problem Statement:**
 
 Manual vehicle monitoring for:
-Traffic law enforcement
-Toll collection
-Parking management
-Security access control
-is slow, error-prone, and not scalable.
+- Traffic law enforcement
+- Toll collection
+- Parking management
+- Security access control is slow, error-prone, and not scalable.
 
 Traffic cameras generate massive volumes of visual data, making manual review impractical. The challenge is to convert raw pixel data into structured, searchable license plate numbers automatically.
 
